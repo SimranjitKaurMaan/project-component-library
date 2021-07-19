@@ -110,8 +110,21 @@ hr {
      background-color: var(--off-white);
  }
 
+.footer{
+    background-color: var(--primary-color);
+    border-top-right-radius: 1rem;
+    text-align: center;
+    color: white;
+    padding: 2rem;
+}
 
- 
+.footer .link{
+    color: white;
+}
+
+.footer ul{
+    padding-inline-start: 0px;
+}
 
 
 
