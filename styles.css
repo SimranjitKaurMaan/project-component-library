@@ -121,6 +121,7 @@ hr {
     text-align: center;
     color: white;
     padding: 2rem;
+    margin-top: 5rem;
 }
 
 .footer .footer-header{
@@ -136,9 +137,7 @@ hr {
     padding-inline-start: 0px;
 }
 
-.date{
-    margin-top: 0px;
-}
+
 
 
 
